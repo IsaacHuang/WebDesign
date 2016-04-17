@@ -5,6 +5,11 @@
 	<title>
 		CYCU_MAP
 	</title>
+</head>
+<body>
+	<div id="map">
+		
+	</div>
 	<script type="text/javascript">
 		function initMap() {
   			// Create a map object and specify the DOM element for display.
@@ -15,10 +20,5 @@
   			});
 		}
 	</script>
-</head>
-<body>
-	<div id="map">
-		
-	</div>
 </body>
 </html>
