@@ -20,5 +20,8 @@
   			});
 		}
 	</script>
+	<script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBfk27NsL0_DzLgFmkJIAP5X-qbkEFcNbo&callback=initMap">
+    </script>
 </body>
 </html>
