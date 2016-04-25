@@ -7,7 +7,7 @@
 	</title>
 </head>
 <body>
-	<div id="map">
+	<div id="map" width="600" height="300">
 		
 	</div>
 	<script type="text/javascript">
